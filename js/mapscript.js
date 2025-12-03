@@ -23,7 +23,7 @@ function initMap() {
   const marker = new google.maps.Marker({
     position: prospero,
     map: map,
-    title: "Prospero"
+    title: "<< Prospero (N°: 45.6925 , E°: -121.5519) >>"
   });
 
   // Add info window
